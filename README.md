@@ -7,6 +7,7 @@ Chrome extension to improve user experience on specific streaming platforms. Cur
 
 ## Upcoming features (ordered by importance)
 - improved layout in theater mode, removing the obnoxious black bars and minimizing infrequently used screen elements
+  - ![Feature demonstration GIF](https://github.com/BarcraftUnited/StreamImprover/blob/master/twitch_theater_mode_fix.gif)
 - Ability to drag around the "Video Stats" box
 - clicking on an emote copies the name to your input, for easier meme
 - clicking on chat area closes emote tray
