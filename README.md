@@ -4,9 +4,9 @@ Chrome extension to improve user experience on specific streaming platforms. Cur
 ## Features
 - Differentiate between individual chat messsages
 - Mousing over various chat elements does not cause it to switch graphical states
-- ~~Clicking on chat area closes emote tray~~
 
 ## Upcoming (ordered by importance)
+- Clicking on chat area closes bit cheer tray
 - Clicking on an emote copies the name to your input, for easier memeing.
 - Improve layout in theater mode, removing the obnoxious black bars and minimizing infrequently used screen elements
   - ![Feature demonstration GIF](https://github.com/BarcraftUnited/StreamImprover/blob/master/twitch_theater_mode_fix.gif)
